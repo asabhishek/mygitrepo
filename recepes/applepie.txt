@@ -9,3 +9,6 @@ ap master 7
 ap master 8
 ap master 9
 ap master 10
+lisa app1
+lisa app2
+lisa app 3
