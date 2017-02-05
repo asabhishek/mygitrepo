@@ -1,1 +1,2 @@
-this foldeer have all menu text files 
+This folder have all menu text files 
+this is master branch change
